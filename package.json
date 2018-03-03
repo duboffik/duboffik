@@ -2,9 +2,9 @@
   "name": "duboffik",
   "version": "0.0.1",
   "description": "Let's monitor",
-  "main": "myJs.js",
+  "main": "test.js",
   "scripts": {
-    "myjs": "mocha myJs.js"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
